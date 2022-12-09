@@ -1,0 +1,88 @@
+{
+  "TermText": "General-purpose programming language (2)\n",
+  "Term": [
+    {
+      "Bullet": false,
+      "Elements": [
+        {
+          "Content": "General-purpose ",
+          "Underline": false
+        },
+        {
+          "Content": "programming",
+          "Underline": false
+        },
+        {
+          "Content": " language (",
+          "Underline": false
+        },
+        {
+          "Content": "2",
+          "Underline": false
+        },
+        {
+          "Content": ")\n",
+          "Underline": false
+        }
+      ]
+    }
+  ],
+  "Definition": [
+    {
+      "Bullet": false,
+      "Elements": [
+        {
+          "Content": "Programming language",
+          "Underline": true
+        },
+        {
+          "Content": " that can be used for a ",
+          "Underline": false
+        },
+        {
+          "Content": "variety of purposes",
+          "Underline": true
+        },
+        {
+          "Content": "\n",
+          "Underline": false
+        }
+      ]
+    }
+  ],
+  "AdditionalInfo": [
+    [
+      {
+        "Bullet": false,
+        "Elements": [
+          {
+            "Content": "een",
+            "Underline": false
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "Bullet": false,
+        "Elements": [
+          {
+            "Content": "twee",
+            "Underline": false
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "Bullet": false,
+        "Elements": [
+          {
+            "Content": "drie",
+            "Underline": false
+          }
+        ]
+      }
+    ]
+  ]
+}
